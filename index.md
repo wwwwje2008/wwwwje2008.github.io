@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Aenoc's Personal Page"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Indroduce
 
-Body
+My name is Woo Aenoc. I'm majoring Artificial Intelligence in Hanyang University at Ansan.
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
